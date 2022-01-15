@@ -1,0 +1,16 @@
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Allhamdulillah UTS Genap Firmansyah\obj\x86\Debug\Allhamdulillah_UTS_Genap_Firmansyah.Form1.resources
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Allhamdulillah UTS Genap Firmansyah\obj\x86\Debug\Allhamdulillah_UTS_Genap_Firmansyah.Home.resources
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Allhamdulillah UTS Genap Firmansyah\obj\x86\Debug\Allhamdulillah_UTS_Genap_Firmansyah.Properties.Resources.resources
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Allhamdulillah UTS Genap Firmansyah\obj\x86\Debug\Allhamdulillah UTS Genap Firmansyah.csproj.GenerateResource.Cache
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Allhamdulillah UTS Genap Firmansyah\bin\Debug\Allhamdulillah UTS Genap Firmansyah.exe
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Allhamdulillah UTS Genap Firmansyah\bin\Debug\Allhamdulillah UTS Genap Firmansyah.pdb
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Allhamdulillah UTS Genap Firmansyah\obj\x86\Debug\Allhamdulillah UTS Genap Firmansyah.exe
+C:\Users\Firmansyah\AppData\Local\Temporary Projects\Allhamdulillah UTS Genap Firmansyah\obj\x86\Debug\Allhamdulillah UTS Genap Firmansyah.pdb
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Allhamdulillah UTS Genap Firmansyah\Allhamdulillah UTS Genap Firmansyah\obj\x86\Debug\Allhamdulillah UTS Genap Firmansyah.exe
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Allhamdulillah UTS Genap Firmansyah\Allhamdulillah UTS Genap Firmansyah\obj\x86\Debug\Allhamdulillah UTS Genap Firmansyah.pdb
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Allhamdulillah UTS Genap Firmansyah\Allhamdulillah UTS Genap Firmansyah\bin\Debug\Allhamdulillah UTS Genap Firmansyah.exe
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Allhamdulillah UTS Genap Firmansyah\Allhamdulillah UTS Genap Firmansyah\bin\Debug\Allhamdulillah UTS Genap Firmansyah.pdb
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Allhamdulillah UTS Genap Firmansyah\Allhamdulillah UTS Genap Firmansyah\obj\x86\Debug\Allhamdulillah_UTS_Genap_Firmansyah.Form1.resources
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Allhamdulillah UTS Genap Firmansyah\Allhamdulillah UTS Genap Firmansyah\obj\x86\Debug\Allhamdulillah_UTS_Genap_Firmansyah.Home.resources
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Allhamdulillah UTS Genap Firmansyah\Allhamdulillah UTS Genap Firmansyah\obj\x86\Debug\Allhamdulillah_UTS_Genap_Firmansyah.Properties.Resources.resources
+C:\Users\Firmansyah\documents\visual studio 2010\Projects\Allhamdulillah UTS Genap Firmansyah\Allhamdulillah UTS Genap Firmansyah\obj\x86\Debug\Allhamdulillah UTS Genap Firmansyah.csproj.GenerateResource.Cache
